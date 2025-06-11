@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	104284692	RTPC_1			\Layer\RTPC_1	
+	104284694	RTPC_3			\Layer\RTPC_3	
+	104284695	RTPC_2			\Layer\RTPC_2	
+	452547817	Stop_All			\Layer\Stop_All	
+	1256202815	Play			\Layer\Play	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3298531235	Layers			\RTPC\Layers	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	120494568	First layer	Y:\Documents\Unity_Projects\The Spirit\The Spirit_WwiseProject\.cache\Mac\SFX\First layer_FBC78EF0.wem		\Interactive Music Hierarchy\Exploring_Music\Music_Layer\Exploration\First layer		6800308
+	399919869	Third layer	Y:\Documents\Unity_Projects\The Spirit\The Spirit_WwiseProject\.cache\Mac\SFX\Third layer_FBC78EF0.wem		\Interactive Music Hierarchy\Exploring_Music\Music_Layer\Exploration\Third layer		6800240
+	401338812	Second layer	Y:\Documents\Unity_Projects\The Spirit\The Spirit_WwiseProject\.cache\Mac\SFX\ Second layer_FBC78EF0.wem		\Interactive Music Hierarchy\Exploring_Music\Music_Layer\Exploration\Second layer		6800056
+	901437010	Fourth layer	Y:\Documents\Unity_Projects\The Spirit\The Spirit_WwiseProject\.cache\Mac\SFX\Fourth layer_FBC78EF0.wem		\Interactive Music Hierarchy\Exploring_Music\Music_Layer\Exploration\Fourth layer		6800156
+

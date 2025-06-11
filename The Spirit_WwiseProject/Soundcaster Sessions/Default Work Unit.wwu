@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6B725F72-946F-45B8-BBF3-39CAF626FBD5}" SchemaVersion="119">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{6B725F72-946F-45B8-BBF3-39CAF626FBD5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="RTPC" ID="{6B2D47E4-C467-477E-977A-3DB53EC02E00}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play" ID="{2283F7F2-5998-46D1-A1C1-E16DA0CCAB9F}" WorkUnitID="{45F7536B-5D0E-4D2D-9886-48334FE04508}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="RTPC_1" ID="{DD3E894E-AC65-4C31-8264-B1E87CAE71AA}" WorkUnitID="{45F7536B-5D0E-4D2D-9886-48334FE04508}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stop_All" ID="{D1B78EDC-56A2-47E5-AC82-B232EF4C8E95}" WorkUnitID="{45F7536B-5D0E-4D2D-9886-48334FE04508}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="RTPC_2" ID="{65C1DFD1-9D0D-419C-95F2-16BCC47D655D}" WorkUnitID="{45F7536B-5D0E-4D2D-9886-48334FE04508}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="RTPC_3" ID="{9BA63F84-FC7F-4CA2-8027-C0F03258D971}" WorkUnitID="{45F7536B-5D0E-4D2D-9886-48334FE04508}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Layers" ID="{9E989046-FEA1-43C0-AB59-08737BA83120}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>
